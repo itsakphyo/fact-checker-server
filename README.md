@@ -85,7 +85,7 @@ curl -X POST "http://localhost:8080/fact-check" \
 
 ### 1. Clone & Setup
 ```bash
-git clone <your-repo>
+git clone git@github.com:itsakphyo/fact-checker-server.git
 cd fact-checker-server
 pip install -r requirements.txt
 ```
