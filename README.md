@@ -3,7 +3,6 @@
 <img src="images/image.png" alt="Fact-Checker Banner" width="300"  />
 </div>
 
-
 ## What Makes This Special?
 
 Welcome to the **AI Fact-Checker Server** - a cutting-edge backend service that harnesses the power of Google's Gemini 2.5 Pro and Gemini 2.0 Flash models to combat misinformation in real-time. This isn't just another API; it's your digital truth detector!
@@ -113,15 +112,17 @@ docker run -p 8080:8080 --env-file .env fact-checker-server
 
 ## Chrome Extension Integration
 
-> **🔥 Exciting News!** Our Chrome extension frontend is currently under review by Google and will be available on the Chrome Web Store soon! 
+> **🔥 Exciting News!** Our Chrome extension frontend is now live on the Chrome Web Store! 🎉
 
-The extension will provide:
+### [👉 Install the Fact-Checker Extension Here](https://chromewebstore.google.com/detail/fact-checker/fkljeknlglobikhccghfkjdbgoeboiip)
+
+The extension provides:
 - ✨ One-click fact-checking for any webpage
 - 🎯 Real-time misinformation detection
 - 📱 Seamless browser integration
 - 🔔 Instant credibility alerts
 
-**Status:** *Under Google Review* - Stay tuned for the official release! (will update here soon...)
+**Status:** *Published* - Available for download now!
 
 ## Configuration
 
